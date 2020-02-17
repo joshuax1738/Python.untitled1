@@ -1,3 +1,5 @@
 #!/user/bin/python3
 
-hey every body
+def main(msg) :
+    print(msg)
+    main("hello people")
